@@ -1,0 +1,79 @@
+.policy-wrapper {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 64px 24px 96px;
+    line-height: 1.7;
+    background-color: white;
+    color: black;
+}
+
+.policy-header {
+    margin-bottom: 48px;
+    border-bottom: 1px solid black;
+    padding-bottom: 24px;
+}
+
+.policy-header .nav-back {
+    display: inline-block;
+    font-size: 0.85rem;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.policy-header h1 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    letter-spacing: -0.03em;
+    color: black;
+}
+
+.policy-header p {
+    font-size: 0.85rem;
+    color: black;
+}
+
+.policy-section {
+    margin-bottom: 36px;
+}
+
+.policy-section h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: black;
+    border-left: 3px solid black;
+    padding-left: 10px;
+}
+
+.policy-section p {
+    font-size: 0.92rem;
+    margin-bottom: 12px;
+    color: black;
+}
+
+.policy-section ul {
+    list-style: square;
+    padding-left: 20px;
+    margin-bottom: 12px;
+}
+
+.policy-section li {
+    font-size: 0.92rem;
+    margin-bottom: 8px;
+    color: black;
+}
+
+.contact-box {
+    border: 1px solid black;
+    border-radius: 0;
+    padding: 18px 20px;
+    margin-top: 16px;
+    background-color: white;
+    color: black;
+}
+
+.contact-box a {
+    color: black;
+    font-weight: 600;
+}

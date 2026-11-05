@@ -1,0 +1,28 @@
+.home-container {
+    position: relative;
+    width: 100vw;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.brand-logo {
+    width: 50vw;
+    max-width: 400px;
+    height: auto;
+    display: block;
+}
+
+.brand-title {
+    position: absolute;
+    bottom: 32px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: black;
+    letter-spacing: -0.02em;
+}
